@@ -5,7 +5,8 @@ Last updated: 2026-05-14
 ## Current State
 
 - Vault bootstrap created locally at `/root/.codex/memories/obsidian-cosmos-transfer`.
-- Remote clone from GitHub was not available over anonymous HTTPS.
+- Local Git repository initialized and committed.
+- Remote clone and remote listing from GitHub were not available over anonymous HTTPS.
 - Git remote target for this vault should be `https://github.com/MasayaSakata9/obsidian-cosmos-transfer.git`.
 
 ## Constraints
@@ -16,8 +17,8 @@ Last updated: 2026-05-14
 
 ## Blockers
 
-- Remote repository access is not configured in this environment without a safe auth path.
-- Push status depends on authenticated Git access and on whether the GitHub repository exists.
+- Remote repository currently returns `repository not found` over anonymous HTTPS.
+- Push status depends on authenticated Git access and on whether the GitHub repository exists under the renamed repository path.
 
 ## Next Actions
 
