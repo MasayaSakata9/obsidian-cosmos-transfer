@@ -9,6 +9,9 @@ Track recurring research threads so they can be revisited without searching thro
 - Vault operating workflow for durable Codex memory
 - Git sync behavior for first push into pre-initialized remotes
 - Single-dashcam autonomous-driving augmentation with Cosmos-Transfer
+- Authoritative Cosmos-Transfer source grading and evidence boundaries
+- Japanese dashcam tuning and post-training decision criteria
+- AV ecosystem evidence for Cosmos Transfer vs. broader Cosmos platform usage
 
 ## Usage
 

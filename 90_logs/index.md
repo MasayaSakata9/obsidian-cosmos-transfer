@@ -12,3 +12,4 @@ Session logs are not the primary auto-reread layer. Important recurring context 
 - [[2026-05-14-memory-workflow-upgrade]]
 - [[2026-05-14-structure-refinement]]
 - [[2026-05-14-cosmos-transfer-dashcam-research]]
+- [[2026-05-14-authoritative-research-expansion]]

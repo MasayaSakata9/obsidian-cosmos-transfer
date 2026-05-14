@@ -9,3 +9,6 @@ Store durable technical findings that should be reused in future Cosmos-Transfer
 - [[2026-05-14-multi-control-quality-rules]]
 - [[2026-05-14-reliability-requires-validation]]
 - [[2026-05-14-compute-and-model-constraints]]
+- [[2026-05-14-authoritative-source-hierarchy]]
+- [[2026-05-14-japanese-dashcam-tuning-strategy]]
+- [[2026-05-14-av-ecosystem-evidence-boundaries]]

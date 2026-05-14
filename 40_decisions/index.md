@@ -6,3 +6,4 @@ Store decisions, rationale, tradeoffs, and consequences that future sessions nee
 
 - [[2026-05-14-use-separate-cosmos-transfer-vault]]
 - [[2026-05-14-single-dashcam-research-baseline]]
+- [[2026-05-14-source-trust-policy]]
