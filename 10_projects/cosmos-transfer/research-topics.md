@@ -8,6 +8,7 @@ Track recurring research threads so they can be revisited without searching thro
 
 - Vault operating workflow for durable Codex memory
 - Git sync behavior for first push into pre-initialized remotes
+- Single-dashcam autonomous-driving augmentation with Cosmos-Transfer
 
 ## Usage
 

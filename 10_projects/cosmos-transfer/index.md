@@ -17,11 +17,13 @@ This note is the project entry point for Cosmos-Transfer work captured in this v
 - [[repo-map]]
 - [[research-topics]]
 - [[workstreams]]
+- [[dashcam-augmentation-research-2026-05-14]]
 
 ## Current Snapshot
 
 - Vault scaffold exists locally.
 - Remote GitHub repository could not be cloned anonymously and may be private, missing, or require authenticated access.
+- Single dashcam augmentation is now the documented research baseline for Cosmos-Transfer usage in this vault.
 
 ## Suggested Project Notes
 
