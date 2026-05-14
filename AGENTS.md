@@ -20,7 +20,7 @@ Read these files before starting meaningful work:
 6. `10_projects/cosmos-transfer/index.md`
 7. `90_logs/index.md`
 
-After reading the required files, read any linked notes under "Read Next" in `00_context/important-memories.md` and any open items linked from `current-context.md`.
+After reading the required files, read `00_context/stable-memories.md`, then `00_context/active-memories.md`, then any linked notes under "Read Next" in `00_context/active-memories.md`, and any open items linked from `current-context.md`.
 
 ## Writeback Rules After Work
 
@@ -46,6 +46,14 @@ Write something durable when at least one of these is true:
 - A decision required non-obvious tradeoffs.
 
 Do not write something durable when it is only temporary chatter, easily reproducible noise, or an unimportant intermediate output.
+
+## Memory Review Rules
+
+- Keep the reread set small.
+- Move long-lived items into `stable-memories.md`.
+- Keep short-horizon but still important items in `active-memories.md`.
+- Remove an item from active reread once it no longer affects likely next sessions.
+- Preserve history in findings, decisions, or logs even after removing an item from active reread.
 
 ## Safety Rules
 

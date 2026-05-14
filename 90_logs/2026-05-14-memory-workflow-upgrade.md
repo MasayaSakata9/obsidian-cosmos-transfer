@@ -11,6 +11,8 @@
 - Future sessions now have a fixed read order that includes high-value memories after the base context files.
 - The vault now distinguishes between session logs and durable memory worth rereading.
 - Templates now prompt future sessions to identify memory candidates and reuse triggers.
+- The reread layer is split into stable and active memory so it can stay small over time.
+- Project-level theme notes now exist for repo map, research topics, and workstreams.
 
 ## Decisions
 
@@ -29,3 +31,4 @@
 ## Next Actions
 
 - As new work happens, promote repeated user preferences, research outcomes, and important failures into `important-memories`, findings, and decisions.
+- Periodically trim `active-memories.md` so it stays short and useful.

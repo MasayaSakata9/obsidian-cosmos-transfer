@@ -12,6 +12,12 @@ This note is the project entry point for Cosmos-Transfer work captured in this v
 - [[../../40_decisions]]
 - [[../../90_logs/index|session logs]]
 
+## Thematic Notes
+
+- [[repo-map]]
+- [[research-topics]]
+- [[workstreams]]
+
 ## Current Snapshot
 
 - Vault scaffold exists locally.

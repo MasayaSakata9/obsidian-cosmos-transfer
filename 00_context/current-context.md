@@ -7,6 +7,7 @@ Last updated: 2026-05-14
 - Vault bootstrap created locally at `/root/.codex/memories/obsidian-cosmos-transfer`.
 - Local Git repository initialized and committed.
 - Vault structure now includes an important-memory layer for auto-reread before future work.
+- The reread layer is now split into stable and active memory notes.
 - Durable notes now exist for the separate-vault decision and bootstrap findings.
 - Remote clone and remote listing from GitHub were not available over anonymous HTTPS.
 - Git remote target for this vault should be `https://github.com/MasayaSakata9/obsidian-cosmos-transfer.git`.
@@ -25,6 +26,7 @@ Last updated: 2026-05-14
 ## Next Actions
 
 - When future work produces durable user preferences, research outcomes, or important failures, summarize them in findings, decisions, and important memories.
+- Review active memories periodically and demote stale items out of the reread set.
 - If authenticated Git access becomes available, fetch or push this vault to the configured remote.
 - Use this vault as the read-first context source before future Cosmos-Transfer work.
 - Add findings, decisions, and session logs as substantive work happens.

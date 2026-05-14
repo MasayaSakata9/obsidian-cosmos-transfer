@@ -4,23 +4,16 @@ Last updated: 2026-05-14
 
 ## Purpose
 
-This note is the short list of durable memories that future Codex sessions should re-read after the base context files. Keep it selective.
+This note is the routing note for high-value memory. Use it to decide what should be re-read every session versus what is only temporarily important.
 
-## Read Next
+## Read Order
 
-- [[../40_decisions/2026-05-14-use-separate-cosmos-transfer-vault]]
-- [[../30_findings/2026-05-14-vault-bootstrap-findings]]
+1. [[stable-memories]]
+2. [[active-memories]]
 
-## Stable Facts
+## Rules
 
-- The persistent vault name is `obsidian-cosmos-transfer`.
-- The vault must stay separate from active source repositories.
-- Durable summaries are preferred over full conversation transcripts.
-- Secrets and credential-like strings must never be written to the vault.
-
-## Why These Matter
-
-- Naming mistakes would cause future sessions to write into the wrong vault or remote.
-- Repo separation prevents accidental contamination of active source trees.
-- Summary-first notes keep the vault useful instead of noisy.
-- Secret exclusion is a hard safety rule, not a preference.
+- `stable-memories.md` is for rules, preferences, and facts that should survive long-term.
+- `active-memories.md` is for short-horizon context that still deserves explicit rereads.
+- When an active memory becomes permanently useful, promote it into findings or decisions and keep only a short pointer here.
+- When an active memory stops mattering, remove it from active reread and leave the history in findings or logs.
